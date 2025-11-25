@@ -18,7 +18,7 @@ CLI tool untuk scaffolding Next.js project dengan tech stack standar Fullerton H
 ## 📦 Installation
 
 ```bash
-pnpm add -g @fhi/next-fhi-cli
+pnpm add -g @fhi-itdev/next-fhi-cli
 ```
 
 Atau install dari source:
