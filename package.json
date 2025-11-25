@@ -1,5 +1,5 @@
 {
-  "name": "@fhi/next-fhi-cli",
+  "name": "@fhi-itdev/next-fhi-cli",
   "version": "1.0.0",
   "description": "Fullerton Health Indonesia - Next.js Project Scaffolding CLI",
   "main": "dist/index.js",
